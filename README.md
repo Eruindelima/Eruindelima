@@ -1,9 +1,3 @@
-### Hi there 👋
-
-<!--
-**Eruindelima/Eruindelima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 # Eruin de Lima
 Análise e Desenvolvimento de Sistemas | JavaScript | Java
@@ -15,11 +9,11 @@ Estudante de Análise e Desenvolvimento de Sistema com conhecimentos fundamentai
 - Desenvolvimento Front-end  com HTML5, CSS3 e JavaScript
 
 ## 📫 Formação
-**UNASP** - Análise e Desenvolvimento de Sistemas
-**FATEC** - Logistica e Transporte
-**Alura** - HTML5 e CSS3 do Básico ao Avançado
-**CertiProf** – SCRUM FOUNDATION PROFESSIONAL CERTIFICATE (SFPC)
-**Alura** – INTRODUÇÃO AO SQL COM ORACLE: MANIPULE E CONSULTE DADOS
+- **UNASP** - Análise e Desenvolvimento de Sistemas
+- **FATEC** - Logistica e Transporte
+- **Alura** - HTML5 e CSS3 do Básico ao Avançado
+- **CertiProf** – SCRUM FOUNDATION PROFESSIONAL CERTIFICATE (SFPC)
+- **Alura** – INTRODUÇÃO AO SQL COM ORACLE: MANIPULE E CONSULTE DADOS
 
 
 ## 🌱 Aprendendo

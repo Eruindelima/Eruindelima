@@ -17,7 +17,7 @@ Estudante de Análise e Desenvolvimento de Sistema com conhecimentos fundamentai
 
 
 ## 🌱 Aprendendo
-- [Golang](https://golang.org/)
+- [PHP](https://https://www.php.net//)
 
 ## 📫 Contato
 - [LinkedIn](https://www.linkedin.com/in/eruin-de-lima-silva-176a1a160/)

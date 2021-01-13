@@ -5,7 +5,7 @@ Estudante de Análise e Desenvolvimento de Sistema com conhecimentos fundamentai
 
 
 ## 📦 Conhecimentos
-- Desenvolvimento Back-end com JavaScript, Java, Python e C
+- Desenvolvimento Back-end com JavaScript, Java, Python, C e PHP
 - Desenvolvimento Front-end  com HTML5, CSS3 e JavaScript
 
 ## 📫 Formação
@@ -18,6 +18,7 @@ Estudante de Análise e Desenvolvimento de Sistema com conhecimentos fundamentai
 
 ## 🌱 Aprendendo
 - [PHP](https://https://www.php.net//)
+-[Láravel](https://laravel.com/)
 
 ## 📫 Contato
 - [LinkedIn](https://www.linkedin.com/in/eruin-de-lima-silva-176a1a160/)

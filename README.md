@@ -18,8 +18,7 @@ Estudante de Análise e Desenvolvimento de Sistema com conhecimentos fundamentai
 
 ## 🌱 Aprendendo
 - [PHP](https://https://www.php.net//)
-
--[Láravel](https://laravel.com/)
+- [Láravel](https://laravel.com/)
 
 ## 📫 Contato
 - [LinkedIn](https://www.linkedin.com/in/eruin-de-lima-silva-176a1a160/)

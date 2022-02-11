@@ -1,7 +1,7 @@
 
 # Eruin de Lima
 Análise e Desenvolvimento de Sistemas | JavaScript | Java
-Estudante de Análise e Desenvolvimento de Sistema com conhecimentos fundamentais em HTML, CSS, Java e JavaScript, Banco de Dados além de conhecimentos acadêmicos nas linguagens C e Python. Atualmente em busca de colocação no mercado de tecnologia para ingressar na carreira de desenvolvedor.
+Formado em  Análise e Desenvolvimento de Sistema com conhecimentos em HTML, CSS, Java, JavaScript, PHP, Laravel, Banco de Dados além de conhecimentos acadêmicos nas linguagens C e Python. Atualmente em busca de colocação no mercado de tecnologia para ingressar na carreira de desenvolvedor.
 
 
 ## 📦 Conhecimentos
@@ -17,9 +17,8 @@ Estudante de Análise e Desenvolvimento de Sistema com conhecimentos fundamentai
 
 
 ## 🌱 Aprendendo
-- [PHP](https://https://www.php.net//)
-- [Laravel](https://laravel.com/)
+- [Swift](https://www.hackingwithswift.com/) 
 
 ## 📫 Contato
-- [LinkedIn](https://www.linkedin.com/in/eruin-de-lima-silva-176a1a160/)
+- [LinkedIn](https://www.linkedin.com/in/eruin-de-lima/)
 - Gmail - eruin.silva@gmail.com

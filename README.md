@@ -1,6 +1,6 @@
 
 # Eruin de Lima
-Análise e Desenvolvimento de Sistemas | JavaScript | Java
+
 Formado em  Análise e Desenvolvimento de Sistema com conhecimentos em HTML, CSS, Java, JavaScript, PHP, Laravel, Banco de Dados além de conhecimentos acadêmicos nas linguagens C e Python. Atualmente em busca de colocação no mercado de tecnologia para ingressar na carreira de desenvolvedor.
 
 
